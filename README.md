@@ -83,20 +83,6 @@ The lower body contains:
 - GitHub (here!)
 - Canva (Zine)
 - 3D printing
-  
-# Additional Information 📋 (unnecessary information)
 
-## Completed ✅ (●ˇ∀ˇ●)
-- Concept Sketches
-- Structural Planning
-- Zine Poster design
-- Early CAD development
-
-## In Progress 🔄️ (～﹃～)~zZ
-- CAD refinement
-- Electronics planning
-- BOM creation
-- Spacing Optimization
-- Stability testing
 
   
