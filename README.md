@@ -7,7 +7,7 @@ Created by Youna Son & Trevor Lee for Fallout / Hack Club.
 ONSHAPE LINK: https://cad.onshape.com/documents/8000dcbb44917720ecbb4f72/w/cf3f842479549c0ffed44f74/e/c42a8c0b9d5092f488456cc3
 
 
-BOM INCLUDED IN THE FILES!
+BOM INCLUDED IN THE FILES! "Soup - Sheet1.csv"
 ______________
 <img width="440" height="634" alt="image" src="https://github.com/user-attachments/assets/c90bf826-5039-4a2b-9cf1-e96a2261ad0e" />
 
