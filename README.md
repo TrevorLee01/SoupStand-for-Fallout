@@ -4,6 +4,7 @@ A multifunctional pastel and tanuki (Soup!) themed headphone stand with integrat
 Created by Youna Son & Trevor Lee for Fallout / Hack Club.
 ✍️(◔◡◔)
 ______________
+<img width="440" height="634" alt="image" src="https://github.com/user-attachments/assets/c90bf826-5039-4a2b-9cf1-e96a2261ad0e" />
 
 # What Is A Soup Stand ❓ο(=•ω＜=)ρ⌒☆
 A Soup Stand is a hybrid desk accessory designed to combine organization, audio, and aesthetics into a single, cute tanuki.
@@ -11,7 +12,6 @@ A Soup Stand is a hybrid desk accessory designed to combine organization, audio,
 The project combines:
 - A headphone stand
 - Speaker
-- Electronics compartment
 - Compact desk organization
 - Decorative accessory
 
