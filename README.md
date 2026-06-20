@@ -47,7 +47,7 @@ We wanted to create something that:
 2) improves desk appearance
 3) emotionally engaging rather than purely mechanical
 
-A major goal of this poroject was combing hardware engineering (the opportunity fallout gives us) with product branding and visual interesting design
+A major goal of this project was combing hardware engineering (the opportunity fallout gives us) with product branding and visual interesting design
 
 __________
 
@@ -77,12 +77,33 @@ The lower body contains:
 - speakers
 
   !! POTENTIALLY: modular / customizable parts ?? !!
+  __________
+
+  #PICTURES!!!
+  THIS OUR FINISHED CAD YAYYY (no color because we rendered it with color instead)
+  <img width="410" height="561" alt="image" src="https://github.com/user-attachments/assets/9640fbc8-1cd8-4185-a973-c416d71c760b" />
+  <img width="429" height="606" alt="image" src="https://github.com/user-attachments/assets/d761d1db-a847-49b2-a9eb-214471310200" />
+
+  
+  THIS IS OUR PCB rah!!
+
+  
+  <img width="523" height="522" alt="image" src="https://github.com/user-attachments/assets/a7782bd4-6a40-436f-b9c2-87fb1034f99d" />
+
+  <img width="834" height="634" alt="image" src="https://github.com/user-attachments/assets/202ab030-a96e-4b9f-9147-8d39b3032155" />
+
+
+
+  extra image of rendering not in the zine (NO FACE) :
+  <img width="860" height="1266" alt="image" src="https://github.com/user-attachments/assets/65219741-31c6-479e-8fc9-d2b588349cf2" />
+
 
 # Credits
 - Onshape (CAD)
 - GitHub (here!)
 - Canva (Zine)
 - 3D printing
+- and obviously... FALLOUT! since our headphone stand is based off the mascot Soup!
 
 
   
