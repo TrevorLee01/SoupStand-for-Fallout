@@ -65,7 +65,6 @@ Internal space planned for small speaker
 ~ plays your favorite song ~
 ## 🎨Decorative Design 
 
-## 🧶 Cable Management (INSIDE!)
 
 This structure is designed around 3D printing and prototyping!
 
