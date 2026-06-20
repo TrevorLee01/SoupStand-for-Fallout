@@ -37,7 +37,7 @@ Unlike most headphone stads that are purely functional and even weirdly abstract
 
 _________________
 
-# Why We Made It 🛠️ o(*￣▽￣*)o
+# Why It Was Made 🛠️ o(*￣▽￣*)o
 
 We noticed that most desk accessories feel:
 - boringggggggg
