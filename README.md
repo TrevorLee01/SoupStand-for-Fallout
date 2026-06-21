@@ -107,7 +107,12 @@ All 3 at once is the power on and off button
 
   # PICTURES!!!
   THIS OUR FINISHED CAD YAYYY (no color because we rendered it with color instead)
+
+
+  
   <img width="410" height="561" alt="image" src="https://github.com/user-attachments/assets/9640fbc8-1cd8-4185-a973-c416d71c760b" />
+
+  
   <img width="429" height="606" alt="image" src="https://github.com/user-attachments/assets/d761d1db-a847-49b2-a9eb-214471310200" />
 
   
