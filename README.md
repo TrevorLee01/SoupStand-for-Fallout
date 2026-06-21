@@ -78,13 +78,32 @@ ________
 The headphones rest of the upper support section of the stand.
 
 The lower body contains:
-- internal storage space
 - eletronic compartment
 - structural support (flat base)
 - speakers
 
-  !! POTENTIALLY: modular / customizable parts ?? !!
+There are 3 buttons:
+TOP: increase volume
+MIDDLE: pause music/sound
+BOTTOM: decrease volume
+
+All 3 at once is the power on and off button
+
+  !! POTENTIALLY:customizable parts ?? !!
   __________
+
+  # How to build
+  ______
+  How to Assemble & Use Your Soup Stand
+1) Print the Parts: Download the .step files from the repository and 3D print the upper headset support, main body, and base storage compartment.
+
+2) Mount the Electronics: Secure your custom PCB inside the lower electronic compartment. Fit the speaker into its designated internal slot.
+
+3) Route the Cables & Connect: Pass your speaker and power cables through the integrated cable organization channels out to the back of the stand.
+
+4) Final Assembly: Align the upper support section with the main body and snap/screw them together.
+
+5) How to Use: Place the Soup Stand on your desk and plug the power/audio cable into your computer or power source. Rest your over-ear headphones on Soup’s head to keep your desk clutter-free, use the lower tray for compact desk storage, and play your favorite music directly through the integrated speaker!
 
   #PICTURES!!!
   THIS OUR FINISHED CAD YAYYY (no color because we rendered it with color instead)
