@@ -1,6 +1,6 @@
 SOUPSTAND BILL OF MATERIALS,,,,,
  Total Cost ,,,,,
- $ 24.58 ,,,,,
+ $ 32.53 ,,,,,
 ,,,,,
 Item, Indiv Costs ,Quanities, Cost ,Links to Order,Additional Notes
 ESP32-S3-WROOM-1-N16R8, $ 6.76 ,1, $ 6.76 ,https://www.digikey.com/en/products/detail/espressif-systems/ESP32-S3-WROOM-1-N16R8/16162642,
@@ -28,3 +28,4 @@ PLA Housing, $ -   ,, $ -   ,,
 M3 x 10mm Socket Cap Head Screws, $ 0.33 ,6, $ 1.98 ,https://accu-components.com/us/metric-cap-head-screws/16004-SSCF-M3-10-12-9,
 M3 x 5mm Socket Cap Head Screws, $ 0.45 ,4, $ 1.80 ,https://accu-components.com/us/metric-cap-head-screws/16001-SSCF-M3-5-12-9,
 NS50D-0802-L82-01 Speaker, $ 2.40 ,1, $ 2.40 ,https://www.digikey.com/en/products/detail/nac-holdings-limited/NS50D-0802-L82-01/15859761,
+LiPo Battery (3.7V 500mAh Protected),$5.99,1,$5.99,https://www.adafruit.com/product/1578,"Protected LiPo battery
