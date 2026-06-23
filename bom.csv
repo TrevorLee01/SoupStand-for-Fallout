@@ -1,6 +1,6 @@
 SOUPSTAND BILL OF MATERIALS,,,,,
  Total Cost ,,,,,
- $ 59.67 ,,,,,
+ $ 62.19 ,,,,,
 ,,,,,
 Item, Indiv Costs ,Quanities, Cost ,Links to Order,Additional Notes
 ESP32-S3-WROOM-1-N16R8 MCU, $ 6.76 ,1, $ 6.76 ,https://www.digikey.com/en/products/detail/espressif-systems/ESP32-S3-WROOM-1-N16R8/16162642,
@@ -29,4 +29,4 @@ M3 x 10mm Socket Cap Head Screws, $ 0.33 ,6, $ 1.98 ,https://accu-components.com
 M3 x 5mm Socket Cap Head Screws, $ 0.45 ,4, $ 1.80 ,https://accu-components.com/us/metric-cap-head-screws/16001-SSCF-M3-5-12-9,
 NS50D-0802-L82-01 Speaker, $ 2.40 ,1, $ 2.40 ,https://www.digikey.com/en/products/detail/nac-holdings-limited/NS50D-0802-L82-01/15859761,
 BK-18650-PC6 Battery Mount, $ 5.24 ,1, $ 5.24 ,https://www.digikey.com/en/products/detail/mpd-memory-protection-devices-/BK-18650-PC6/2330514,
-1781 Batteries, $ 9.95 ,3, $ 29.85 ,https://www.digikey.com/en/products/detail/adafruit-industries-llc/1781/5054543,
+12895 Batteries, $ 10.79 ,3, $ 32.37 ,https://www.digikey.com/en/products/detail/sparkfun-electronics/12895/5271298,
